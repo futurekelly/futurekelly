@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @futurekelly
 - 👀 I’m interested in ethical hacking and software development
 - 🌱 I’m currently learning computer networking mobile application development and machine learning 
-- 💞️ I’m looking to collaborate on sofware generation like bots
+- 💞️ I’m looking for technical  collaboration  on sofware generation in tools like assistant bots and ethical stuffs
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..Always hide your IP, you silly! Before I come and eat your money, secure your online presence! 😂.
 
-<!---
-futurekelly/futurekelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
